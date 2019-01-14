@@ -1,0 +1,93 @@
+@charset "utf-8";
+#banner {
+	width: 1050px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#banner div {
+	float: left;
+}
+#babe {
+	float: right;
+	width: 230px;
+	height: 300px;
+}
+#babe #ruth {
+	width: 220px;
+	height: 290px;
+
+}
+#jacky {
+	float: right;
+	width: 220px;
+	height: 310px;
+}
+#jacky #rob {
+	width: 220px;
+	height: 310px;
+}
+#juva {
+	float: right;
+	width: 220px;
+	height: 310px;
+}
+#juva #sosa {
+	width: 220px;
+	height: 310px;
+}
+#all_stats_basic_plus_nhl #hall {
+	width: 220px;
+	height: 310px;
+}
+.img #jon {
+	width: 220px;
+	height: 310px;
+}
+#banner div {
+	width: 220px;
+	height: 310px;
+
+}
+#banner #kobe {
+
+
+}
+#AI {
+
+
+
+
+}
+#text {
+
+
+}
+#mamba {
+
+}
+#magic {
+
+}
+
+
+#info {
+	line-height: 18px;
+
+}
+
+
+
+#banner #kobe {
+}
+#jim {
+	width: 210px;
+	height: 350px;
+}
+#info  {
+	width: 200px;
+	height: 300px;
+}
+
+#facts {
+}
